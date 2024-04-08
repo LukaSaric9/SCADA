@@ -1,0 +1,818 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\luka saric\\desktop\\scada projekat\\projekat\\processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\modbusfunctions\\readcoilsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readcoilsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\modbusfunctions\\writesinglecoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\writesinglecoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\modbusfunctions\\writesingleregisterfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\writesingleregisterfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\configuration\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\configuration\\configitemequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configitemequalitycomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\configuration\\configitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\common\\iautomationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\iautomationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\common\\ianalogpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\ianalogpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\common\\iconfigitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\iconfigitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\common\\iconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\iconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\common\\ifunctionexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\ifunctionexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\common\\imodbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\imodbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\common\\iprocessingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\iprocessingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\common\\istateupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\istateupdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\common\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\istorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\connection\\functionexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\connection\\functionexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\connection\\tcpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\connection\\tcpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\connection\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\connection\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\functionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\functionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\modbusfunctions\\modbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\modbusfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\functionparameters\\modbuscommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\functionparameters\\modbuscommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\processingmodule\\alarmprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\alarmprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\processingmodule\\processingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\processingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\processingmodule\\eguconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\eguconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\processingmodule\\automationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\automationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\functionparameters\\modbuswritecommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\functionparameters\\modbuswritecommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\modbusfunctions\\readdiscreteinputsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readdiscreteinputsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\functionparameters\\modbusreadcommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\functionparameters\\modbusreadcommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\modbusfunctions\\readinputregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readinputregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\modbusfunctions\\readholdingregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readholdingregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\converters\\alarmtobackgroundcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\converters\\alarmtobackgroundcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\utils\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\utils\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\common\\ipoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\ipoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\viewmodel\\pointviewmodels\\digitalinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\pointviewmodels\\digitalinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\viewmodel\\pointviewmodels\\digitalbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\pointviewmodels\\digitalbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\viewmodel\\pointviewmodels\\basepointitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\pointviewmodels\\basepointitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\viewmodel\\pointviewmodels\\analogoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\pointviewmodels\\analogoutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\viewmodel\\pointviewmodels\\analaoginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\pointviewmodels\\analaoginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\controlwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\controlwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\exceptions\\configurationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\exceptions\\configurationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\converters\\connectionstatetocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\converters\\connectionstatetocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\common\\idigitalpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\idigitalpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\common\\pointidentifierhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{823D1355-EFD0-481C-A0D9-FDA0C4EA37DF}|Common\\Common.csproj|solutionrelative:common\\pointidentifierhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigItem.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigItem.cs",
+              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigItem.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigItem.cs",
+              "RelativeToolTip": "dCom\\Configuration\\ConfigItem.cs",
+              "ViewState": "AQIAAC0BAAAAAAAAAAAAwBABAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:52:08.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigReader.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigReader.cs",
+              "RelativeToolTip": "dCom\\Configuration\\ConfigReader.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:55:20.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Acquisitor.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\Acquisitor.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\Acquisitor.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\Acquisitor.cs",
+              "RelativeToolTip": "ProcessingModule\\Acquisitor.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAuwC8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:46:53.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WriteSingleRegisterFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:58:10.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WriteSingleCoilFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:51:17.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadCoilsFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:40:10.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RtuCfg.txt",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\RtuCfg.txt",
+              "RelativeDocumentMoniker": "dCom\\RtuCfg.txt",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\RtuCfg.txt",
+              "RelativeToolTip": "dCom\\RtuCfg.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-05T09:38:01.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfigItemEqualityComparer.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigItemEqualityComparer.cs",
+              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigItemEqualityComparer.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigItemEqualityComparer.cs",
+              "RelativeToolTip": "dCom\\Configuration\\ConfigItemEqualityComparer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:55:07.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAnalogPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IAnalogPoint.cs",
+              "RelativeDocumentMoniker": "Common\\IAnalogPoint.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IAnalogPoint.cs",
+              "RelativeToolTip": "Common\\IAnalogPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:44:58.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IConfigItem.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IConfigItem.cs",
+              "RelativeDocumentMoniker": "Common\\IConfigItem.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IConfigItem.cs",
+              "RelativeToolTip": "Common\\IConfigItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:45:03.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IConfiguration.cs",
+              "RelativeDocumentMoniker": "Common\\IConfiguration.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IConfiguration.cs",
+              "RelativeToolTip": "Common\\IConfiguration.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:45:19.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAutomationManager.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IAutomationManager.cs",
+              "RelativeDocumentMoniker": "Common\\IAutomationManager.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IAutomationManager.cs",
+              "RelativeToolTip": "Common\\IAutomationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:45:01.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IFunctionExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IFunctionExecutor.cs",
+              "RelativeDocumentMoniker": "Common\\IFunctionExecutor.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IFunctionExecutor.cs",
+              "RelativeToolTip": "Common\\IFunctionExecutor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:45:27.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IModbusFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IModbusFunction.cs",
+              "RelativeDocumentMoniker": "Common\\IModbusFunction.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IModbusFunction.cs",
+              "RelativeToolTip": "Common\\IModbusFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:45:33.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProcessingManager.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IProcessingManager.cs",
+              "RelativeDocumentMoniker": "Common\\IProcessingManager.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IProcessingManager.cs",
+              "RelativeToolTip": "Common\\IProcessingManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:16:05.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FunctionExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\Connection\\FunctionExecutor.cs",
+              "RelativeDocumentMoniker": "Modbus\\Connection\\FunctionExecutor.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\Connection\\FunctionExecutor.cs",
+              "RelativeToolTip": "Modbus\\Connection\\FunctionExecutor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:46:01.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TCPConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\Connection\\TCPConnection.cs",
+              "RelativeDocumentMoniker": "Modbus\\Connection\\TCPConnection.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\Connection\\TCPConnection.cs",
+              "RelativeToolTip": "Modbus\\Connection\\TCPConnection.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:45:50.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\Connection\\IConnection.cs",
+              "RelativeDocumentMoniker": "Modbus\\Connection\\IConnection.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\Connection\\IConnection.cs",
+              "RelativeToolTip": "Modbus\\Connection\\IConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:46:05.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FunctionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\FunctionFactory.cs",
+              "RelativeDocumentMoniker": "Modbus\\FunctionFactory.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\FunctionFactory.cs",
+              "RelativeToolTip": "Modbus\\FunctionFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:46:38.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IStorage.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IStorage.cs",
+              "RelativeDocumentMoniker": "Common\\IStorage.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IStorage.cs",
+              "RelativeToolTip": "Common\\IStorage.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:56:10.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStateUpdater.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IStateUpdater.cs",
+              "RelativeDocumentMoniker": "Common\\IStateUpdater.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IStateUpdater.cs",
+              "RelativeToolTip": "Common\\IStateUpdater.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:56:10.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ModbusFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ModbusFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ModbusFunction.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ModbusFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ModbusFunction.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowHsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:38:01.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ModbusCommandParameters.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\FunctionParameters\\ModbusCommandParameters.cs",
+              "RelativeDocumentMoniker": "Modbus\\FunctionParameters\\ModbusCommandParameters.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\FunctionParameters\\ModbusCommandParameters.cs",
+              "RelativeToolTip": "Modbus\\FunctionParameters\\ModbusCommandParameters.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwG4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:46:12.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AlarmProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\AlarmProcessor.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\AlarmProcessor.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\AlarmProcessor.cs",
+              "RelativeToolTip": "ProcessingModule\\AlarmProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:46:54.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProcessingManager.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\ProcessingManager.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\ProcessingManager.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\ProcessingManager.cs",
+              "RelativeToolTip": "ProcessingModule\\ProcessingManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:49:47.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EGUConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\EGUConverter.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\EGUConverter.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\EGUConverter.cs",
+              "RelativeToolTip": "ProcessingModule\\EGUConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T15:49:45.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AutomationManager.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\AutomationManager.cs",
+              "RelativeDocumentMoniker": "ProcessingModule\\AutomationManager.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\AutomationManager.cs",
+              "RelativeToolTip": "ProcessingModule\\AutomationManager.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:46:55.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReadDiscreteInputsFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadDiscreteInputsFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadDiscreteInputsFunction.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadDiscreteInputsFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadDiscreteInputsFunction.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:57:47.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ModbusReadCommandParameters.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\FunctionParameters\\ModbusReadCommandParameters.cs",
+              "RelativeDocumentMoniker": "Modbus\\FunctionParameters\\ModbusReadCommandParameters.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\FunctionParameters\\ModbusReadCommandParameters.cs",
+              "RelativeToolTip": "Modbus\\FunctionParameters\\ModbusReadCommandParameters.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAUwDoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:46:17.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ModbusWriteCommandParameters.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\FunctionParameters\\ModbusWriteCommandParameters.cs",
+              "RelativeDocumentMoniker": "Modbus\\FunctionParameters\\ModbusWriteCommandParameters.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\FunctionParameters\\ModbusWriteCommandParameters.cs",
+              "RelativeToolTip": "Modbus\\FunctionParameters\\ModbusWriteCommandParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:46:19.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReadHoldingRegistersFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwD0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:57:55.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ReadInputRegistersFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwD8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:38:01.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AlarmToBackgroundColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Converters\\AlarmToBackgroundColorConverter.cs",
+              "RelativeDocumentMoniker": "dCom\\Converters\\AlarmToBackgroundColorConverter.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Converters\\AlarmToBackgroundColorConverter.cs",
+              "RelativeToolTip": "dCom\\Converters\\AlarmToBackgroundColorConverter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:51:13.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAkwKcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:55:55.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Utils\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "dCom\\Utils\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Utils\\RelayCommand.cs",
+              "RelativeToolTip": "dCom\\Utils\\RelayCommand.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:55:31.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\Enums.cs",
+              "RelativeDocumentMoniker": "Common\\Enums.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\Enums.cs",
+              "RelativeToolTip": "Common\\Enums.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:44:47.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IPoint.cs",
+              "RelativeDocumentMoniker": "Common\\IPoint.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IPoint.cs",
+              "RelativeToolTip": "Common\\IPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:56:09.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "dCom\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\MainWindow.xaml",
+              "RelativeToolTip": "dCom\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T16:51:33.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ControlWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\ControlWindow.xaml",
+              "RelativeDocumentMoniker": "dCom\\ControlWindow.xaml",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\ControlWindow.xaml",
+              "RelativeToolTip": "dCom\\ControlWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T16:51:30.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AnalaogInput.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\ViewModel\\PointViewModels\\AnalaogInput.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\PointViewModels\\AnalaogInput.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\ViewModel\\PointViewModels\\AnalaogInput.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\PointViewModels\\AnalaogInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:53:39.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AnalogOutput.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\ViewModel\\PointViewModels\\AnalogOutput.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\PointViewModels\\AnalogOutput.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\ViewModel\\PointViewModels\\AnalogOutput.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\PointViewModels\\AnalogOutput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:53:41.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BasePointItem.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\ViewModel\\PointViewModels\\BasePointItem.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\PointViewModels\\BasePointItem.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\ViewModel\\PointViewModels\\BasePointItem.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\PointViewModels\\BasePointItem.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:53:43.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DigitalInput.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\ViewModel\\PointViewModels\\DigitalInput.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\PointViewModels\\DigitalInput.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\ViewModel\\PointViewModels\\DigitalInput.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\PointViewModels\\DigitalInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:53:58.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:56:00.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DigitalBase.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\ViewModel\\PointViewModels\\DigitalBase.cs",
+              "RelativeDocumentMoniker": "dCom\\ViewModel\\PointViewModels\\DigitalBase.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\ViewModel\\PointViewModels\\DigitalBase.cs",
+              "RelativeToolTip": "dCom\\ViewModel\\PointViewModels\\DigitalBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:55:46.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\App.xaml",
+              "RelativeDocumentMoniker": "dCom\\App.xaml",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\App.xaml",
+              "RelativeToolTip": "dCom\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-11T16:51:25.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ConfigurationException.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Exceptions\\ConfigurationException.cs",
+              "RelativeDocumentMoniker": "dCom\\Exceptions\\ConfigurationException.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Exceptions\\ConfigurationException.cs",
+              "RelativeToolTip": "dCom\\Exceptions\\ConfigurationException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:51:22.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PointIdentifierHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\PointIdentifierHelper.cs",
+              "RelativeDocumentMoniker": "Common\\PointIdentifierHelper.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\PointIdentifierHelper.cs",
+              "RelativeToolTip": "Common\\PointIdentifierHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:56:11.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ConnectionStateToColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Converters\\ConnectionStateToColorConverter.cs",
+              "RelativeDocumentMoniker": "dCom\\Converters\\ConnectionStateToColorConverter.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Converters\\ConnectionStateToColorConverter.cs",
+              "RelativeToolTip": "dCom\\Converters\\ConnectionStateToColorConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T14:51:18.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IDigitalPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IDigitalPoint.cs",
+              "RelativeDocumentMoniker": "Common\\IDigitalPoint.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IDigitalPoint.cs",
+              "RelativeToolTip": "Common\\IDigitalPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:45:24.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
