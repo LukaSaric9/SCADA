@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\modbusfunctions\\readinputregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readinputregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\modbusfunctions\\readholdingregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readholdingregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\modbusfunctions\\writesingleregisterfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\writesingleregisterfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\modbusfunctions\\writesinglecoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\writesinglecoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|c:\\users\\luka saric\\desktop\\scada projekat\\projekat\\processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\modbusfunctions\\readcoilsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readcoilsfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\modbusfunctions\\writesinglecoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\writesinglecoilfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\modbusfunctions\\writesingleregisterfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\writesingleregisterfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\configuration\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -123,14 +131,6 @@
       "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\functionparameters\\modbusreadcommandparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\modbusfunctions\\readinputregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readinputregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\modbus\\modbusfunctions\\readholdingregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65B26E48-3A6C-4BC4-AF16-F77809B5AFA2}|Modbus\\Modbus.csproj|solutionrelative:modbus\\modbusfunctions\\readholdingregistersfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\converters\\alarmtobackgroundcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\converters\\alarmtobackgroundcolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -210,56 +210,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ConfigItem.cs",
-              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigItem.cs",
-              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigItem.cs",
-              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigItem.cs",
-              "RelativeToolTip": "dCom\\Configuration\\ConfigItem.cs",
-              "ViewState": "AQIAAC0BAAAAAAAAAAAAwBABAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T16:52:08.623Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConfigReader.cs",
-              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigReader.cs",
-              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigReader.cs",
-              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigReader.cs",
-              "RelativeToolTip": "dCom\\Configuration\\ConfigReader.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T16:55:20.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Acquisitor.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\Acquisitor.cs",
               "RelativeDocumentMoniker": "ProcessingModule\\Acquisitor.cs",
               "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\Acquisitor.cs",
               "RelativeToolTip": "ProcessingModule\\Acquisitor.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAuwC8AAAAqAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T09:46:53.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "WriteSingleRegisterFunction.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
               "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
               "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
               "RelativeToolTip": "Modbus\\ModbusFunctions\\WriteSingleRegisterFunction.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAwAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwDwAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T09:58:10.649Z"
+              "WhenOpened": "2024-03-05T09:58:10.649Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -269,25 +246,14 @@
               "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
               "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
               "RelativeToolTip": "Modbus\\ModbusFunctions\\WriteSingleCoilFunction.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwDsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T09:51:17.004Z"
+              "WhenOpened": "2024-03-05T09:51:17.004Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReadCoilsFunction.cs",
-              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
-              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
-              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
-              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAQwE4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T09:40:10.672Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "RtuCfg.txt",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\RtuCfg.txt",
               "RelativeDocumentMoniker": "dCom\\RtuCfg.txt",
@@ -299,7 +265,69 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadHoldingRegistersFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwD0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:57:55.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadInputRegistersFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAmwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:38:01.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ReadCoilsFunction.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadCoilsFunction.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:40:10.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigReader.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigReader.cs",
+              "RelativeToolTip": "dCom\\Configuration\\ConfigReader.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:55:20.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigItem.cs",
+              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigItem.cs",
+              "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigItem.cs",
+              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigItem.cs",
+              "RelativeToolTip": "dCom\\Configuration\\ConfigItem.cs",
+              "ViewState": "AQIAAC0BAAAAAAAAAAAAwBABAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:52:08.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ConfigItemEqualityComparer.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigItemEqualityComparer.cs",
               "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigItemEqualityComparer.cs",
@@ -311,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IAnalogPoint.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IAnalogPoint.cs",
               "RelativeDocumentMoniker": "Common\\IAnalogPoint.cs",
@@ -323,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "IConfigItem.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IConfigItem.cs",
               "RelativeDocumentMoniker": "Common\\IConfigItem.cs",
@@ -335,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "IConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IConfiguration.cs",
               "RelativeDocumentMoniker": "Common\\IConfiguration.cs",
@@ -347,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "IAutomationManager.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IAutomationManager.cs",
               "RelativeDocumentMoniker": "Common\\IAutomationManager.cs",
@@ -359,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "IFunctionExecutor.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IFunctionExecutor.cs",
               "RelativeDocumentMoniker": "Common\\IFunctionExecutor.cs",
@@ -371,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "IModbusFunction.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IModbusFunction.cs",
               "RelativeDocumentMoniker": "Common\\IModbusFunction.cs",
@@ -383,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "IProcessingManager.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IProcessingManager.cs",
               "RelativeDocumentMoniker": "Common\\IProcessingManager.cs",
@@ -395,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "FunctionExecutor.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\Connection\\FunctionExecutor.cs",
               "RelativeDocumentMoniker": "Modbus\\Connection\\FunctionExecutor.cs",
@@ -407,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "TCPConnection.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\Connection\\TCPConnection.cs",
               "RelativeDocumentMoniker": "Modbus\\Connection\\TCPConnection.cs",
@@ -419,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "IConnection.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\Connection\\IConnection.cs",
               "RelativeDocumentMoniker": "Modbus\\Connection\\IConnection.cs",
@@ -431,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "FunctionFactory.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\FunctionFactory.cs",
               "RelativeDocumentMoniker": "Modbus\\FunctionFactory.cs",
@@ -443,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "IStorage.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IStorage.cs",
               "RelativeDocumentMoniker": "Common\\IStorage.cs",
@@ -455,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "IStateUpdater.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Common\\IStateUpdater.cs",
               "RelativeDocumentMoniker": "Common\\IStateUpdater.cs",
@@ -467,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "ModbusFunction.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ModbusFunction.cs",
               "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ModbusFunction.cs",
@@ -479,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "ModbusCommandParameters.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\FunctionParameters\\ModbusCommandParameters.cs",
               "RelativeDocumentMoniker": "Modbus\\FunctionParameters\\ModbusCommandParameters.cs",
@@ -491,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "AlarmProcessor.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\AlarmProcessor.cs",
               "RelativeDocumentMoniker": "ProcessingModule\\AlarmProcessor.cs",
@@ -503,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "ProcessingManager.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\ProcessingManager.cs",
               "RelativeDocumentMoniker": "ProcessingModule\\ProcessingManager.cs",
@@ -515,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "EGUConverter.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\EGUConverter.cs",
               "RelativeDocumentMoniker": "ProcessingModule\\EGUConverter.cs",
@@ -527,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "AutomationManager.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\AutomationManager.cs",
               "RelativeDocumentMoniker": "ProcessingModule\\AutomationManager.cs",
@@ -539,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "ReadDiscreteInputsFunction.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadDiscreteInputsFunction.cs",
               "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadDiscreteInputsFunction.cs",
@@ -551,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "ModbusReadCommandParameters.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\FunctionParameters\\ModbusReadCommandParameters.cs",
               "RelativeDocumentMoniker": "Modbus\\FunctionParameters\\ModbusReadCommandParameters.cs",
@@ -563,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "ModbusWriteCommandParameters.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\FunctionParameters\\ModbusWriteCommandParameters.cs",
               "RelativeDocumentMoniker": "Modbus\\FunctionParameters\\ModbusWriteCommandParameters.cs",
@@ -572,30 +600,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-05T09:46:19.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ReadHoldingRegistersFunction.cs",
-              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
-              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
-              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
-              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadHoldingRegistersFunction.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwD0AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T09:57:55.37Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ReadInputRegistersFunction.cs",
-              "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
-              "RelativeDocumentMoniker": "Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
-              "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
-              "RelativeToolTip": "Modbus\\ModbusFunctions\\ReadInputRegistersFunction.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAmwD8AAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T09:38:01.471Z"
             },
             {
               "$type": "Document",

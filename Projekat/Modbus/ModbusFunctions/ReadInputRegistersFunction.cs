@@ -54,7 +54,7 @@ namespace Modbus.ModbusFunctions
             ushort startAddress = ((ModbusReadCommandParameters)this.CommandParameters).StartAddress;
             ushort value;
 
-            for(int i = 0; i < response[8]; i++)
+            for(int i = 0; i < response[8]; i+= 2)
             {
                 value = (ushort)IPAddress.NetworkToHostOrder((short)BitConverter.ToUInt16(response, 9 +i));
                 Tuple<PointType, ushort> tuple = new Tuple<PointType, ushort>(PointType.ANALOG_INPUT,startAddress++);
