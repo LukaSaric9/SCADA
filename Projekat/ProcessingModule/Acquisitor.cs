@@ -77,9 +77,9 @@ namespace ProcessingModule
                             configItem.StartAddress,
                             configItem.NumberOfRegisters
                             );
-                    }
 
-                    configItem.SecondsPassedSinceLastPoll = 0;
+                        configItem.SecondsPassedSinceLastPoll = 0;
+                    }
 
                 }
             }

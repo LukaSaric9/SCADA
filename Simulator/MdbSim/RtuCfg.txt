@@ -2,7 +2,7 @@ STA 105
 TCP 51101
 
 
-DO_REG  2 4800   0  0      1     0  DO  @DigOut #
-DI_REG  3 3800  0  0      1     0  DI  @DigIn #
-IN_REG  8 3900  0  0   4095  2000  AI  @AnaIn #
-HR_INT  2 4700  0  0   4095  1200  AO  @AnaOut #
+DO_REG  2 4800  0  0      1     0  DO  @DigOut 2
+DI_REG  3 3800  0  0      1     0  DI  @DigIn 2
+IN_REG  8 3900  0  0   4095  2000  AI  @AnaIn 4
+HR_INT  2 4700  0  0   4095  1200  AO  @AnaOut 4
