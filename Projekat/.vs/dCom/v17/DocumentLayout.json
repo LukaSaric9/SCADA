@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\luka saric\\desktop\\scada projekat\\projekat\\dcom\\configuration\\configitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A61FACB3-147E-4FD9-88C1-A3F226157C23}|ProcessingModule\\ProcessingModule.csproj|solutionrelative:processingmodule\\acquisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\configuration\\configitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\configuration\\configitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|c:\\users\\luka saric\\desktop\\scada projekat\\projekat\\dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{B5697AB8-53AC-4230-9B79-E43A6AA54436}|dCom\\dCom.csproj|solutionrelative:dcom\\rtucfg.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
@@ -210,7 +210,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -222,8 +222,7 @@
               "RelativeToolTip": "dCom\\Configuration\\ConfigItemEqualityComparer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T16:55:07.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T16:55:07.222Z"
             },
             {
               "$type": "Document",
@@ -235,25 +234,24 @@
               "RelativeToolTip": "dCom\\Configuration\\ConfigReader.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T16:55:20.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T16:55:20.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ConfigItem.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigItem.cs",
               "RelativeDocumentMoniker": "dCom\\Configuration\\ConfigItem.cs",
               "ToolTip": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\dCom\\Configuration\\ConfigItem.cs",
               "RelativeToolTip": "dCom\\Configuration\\ConfigItem.cs",
-              "ViewState": "AQIAAB4BAAAAAAAAAAAAACcBAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T16:52:08.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Acquisitor.cs",
               "DocumentMoniker": "C:\\Users\\Luka Saric\\Desktop\\Scada Projekat\\Projekat\\ProcessingModule\\Acquisitor.cs",
               "RelativeDocumentMoniker": "ProcessingModule\\Acquisitor.cs",
@@ -261,8 +259,7 @@
               "RelativeToolTip": "ProcessingModule\\Acquisitor.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAwwD8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T09:46:53.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T09:46:53.129Z"
             },
             {
               "$type": "Document",
@@ -274,8 +271,7 @@
               "RelativeToolTip": "ProcessingModule\\AlarmProcessor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T09:46:54.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T09:46:54.466Z"
             },
             {
               "$type": "Document",
@@ -287,8 +283,7 @@
               "RelativeToolTip": "dCom\\RtuCfg.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-03-05T09:38:01.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T09:38:01.699Z"
             },
             {
               "$type": "Document",
@@ -300,8 +295,7 @@
               "RelativeToolTip": "ProcessingModule\\AutomationManager.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAA2wEMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T09:46:55.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T09:46:55.632Z"
             },
             {
               "$type": "Document",
@@ -313,8 +307,7 @@
               "RelativeToolTip": "ProcessingModule\\ProcessingManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T15:49:47.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T15:49:47.781Z"
             },
             {
               "$type": "Document",
@@ -326,8 +319,7 @@
               "RelativeToolTip": "ProcessingModule\\EGUConverter.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-31T15:49:45.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-31T15:49:45.207Z"
             },
             {
               "$type": "Document",
@@ -339,8 +331,7 @@
               "RelativeToolTip": "Common\\IConfigItem.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAAcwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T09:45:03.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T09:45:03.673Z"
             },
             {
               "$type": "Document",
@@ -352,8 +343,7 @@
               "RelativeToolTip": "Common\\IConfiguration.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAA7wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T09:45:19.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T09:45:19.945Z"
             },
             {
               "$type": "Document",
